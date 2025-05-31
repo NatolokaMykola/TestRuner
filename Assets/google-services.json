@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351775235078",
+    "project_id": "jumper-adventure",
+    "storage_bucket": "jumper-adventure.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351775235078:android:2608366af8fdcc63e63787",
+        "android_client_info": {
+          "package_name": "com.jumpadventstud.junglrun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD61KtOVnTKaCQWrBbF_k4oaMQ5KKxGCgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
